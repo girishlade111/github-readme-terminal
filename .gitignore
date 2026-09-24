@@ -167,3 +167,16 @@ frame*
 fonts/
 .vscode
 !docs/**
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package manager stores (keep lockfiles tracked)
+.pnpm-store/
+
+# Keep bundled bitmap fonts tracked (required at runtime)
+!gifos/fonts/
+!gifos/fonts/**
