@@ -476,3 +476,9 @@ Distributed under the [MIT License](LICENSE).
   ✨ Craft your masterpiece with <b>github-readme-terminal</b> and showcase your unique GitHub profile in the
   <a href="https://github.com/x0rzavi/github-readme-terminal/discussions/categories/show-and-tell">Show &amp; Tell</a> discussion ✨
 </p>
+
+---
+
+<p align="center">
+  <strong>Built by Girish Lade</strong> — <a href="https://ladestack.in">ladestack.in</a>
+</p>
